@@ -1,0 +1,3 @@
+#!/bin/bash
+IFS=":" path_array=($PATH) count=${#path_array[@]} echo $count
+
