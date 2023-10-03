@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'alias ls="echo total 0"' >> ~/.bashrc
+echo 'alias ls="ls -1"' >> ~/.bashrc
